@@ -37,7 +37,7 @@ A robust backend system for the Study Planner application built with Node.js, Ex
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Make-My-Study-Plan-Backend.git
+   git clone https://github.com/premj01/Make-My-Study-Plan-Backend.git
    ```
 
 2. Install dependencies:
